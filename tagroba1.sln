@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tagroba1", "tagroba1\tagroba1.csproj", "{783D88D2-1C35-463A-BC54-7A803BC921A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{BF2A3C5C-199F-4A0C-8AC1-33AE6027AE20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783D88D2-1C35-463A-BC54-7A803BC921A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783D88D2-1C35-463A-BC54-7A803BC921A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783D88D2-1C35-463A-BC54-7A803BC921A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783D88D2-1C35-463A-BC54-7A803BC921A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2A3C5C-199F-4A0C-8AC1-33AE6027AE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2A3C5C-199F-4A0C-8AC1-33AE6027AE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2A3C5C-199F-4A0C-8AC1-33AE6027AE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2A3C5C-199F-4A0C-8AC1-33AE6027AE20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {421E1BB6-B23C-4344-9E2F-6D376B34C6AD}
+	EndGlobalSection
+EndGlobal
